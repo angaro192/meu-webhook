@@ -1,0 +1,11 @@
+{
+  "name": "meu-webhook",
+  "version": "1.0.0",
+  "description": "meu webhook para recebimento privados de mensagens padrões",
+  "main": "server.js",
+  "author": "Augusto Almeida",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
